@@ -1,3 +1,15 @@
+# Звіт
+### Завдання 15. У матриці розміром N x M поміняти місцями два вказвні стовпці
+
+
+#### Main.java: 
+![alt-текст](src/Main.png "Текст заголовка логотипа 1")
+
+#### MatrixColumnSwap: 
+![alt-текст](src/Swap.png "Текст заголовка логотипа 1")
+#### Результат: 
+![alt-текст](src/res.png "Текст заголовка логотипа 1")
+
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11069714)
 # Практична робота "Поглиблене використання масивів"
 
